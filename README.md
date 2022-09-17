@@ -1,19 +1,34 @@
-# Hi there, I'm Roman Rakic - aka (ROCKROMAN79)👋 
+### Hi there 👋, my name is Roman Rakic - aka (ROCKROMAN79)
+#### I'm a Full time Husband,Full time Father and Developer!!
+![I'm a Full time Husband,Full time Father and Developer!!](https://media-exp1.licdn.com/dms/image/C4E16AQGmy7SdfLicfQ/profile-displaybackgroundimage-shrink_350_1400/0/1662132591680?e=1668643200&v=beta&t=0Lms5ADg3rDx1chluMmYrReK8uPRWHpUmpQbPrhtUss)
+
+-  I’m currently learning Python 
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2022 Goals: Learn more about backend technologies
+- My hobbies are Reading, coding and ocassionaly gaming
+
+Skills:  JS / HTML / CSS/BOOTSTRAP
 
 
-## I'm a Husband, Father and Developer!!
-
-- Currently working in "FULL STACK WEB DEVELOPMENT PROGRAM" by [Code Institute](https://codeinstitute.net/ie/full-stack-software-development-diploma/?utm_term=code%20institute&utm_campaign=CI+-+IRL+-+Search+-+Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=14304747355&hsa_grp=128775288209&hsa_ad=578515182410&hsa_src=g&hsa_tgt=kwd-319867646331&hsa_kw=code%20institute&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMImJ7e07Sc-gIVSbTtCh2xLwqYEAAYASAAEgLA0fD_BwE)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
-
-### Connect with me:
-
-[![website]()]()
-[![website]()]()
 
 
-### Languages and Tools:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' >](https://github.com/rockroman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/roman-the-dev//)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/
+starbadge.gif' width='35' height='35'></a> 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rockroman)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rockroman)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rockroman&show_icons=true) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rockroman)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![GitHub metrics](https://metrics.lecoq.io/rockroman)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rockroman)  
+
+![Profile views](https://gpvc.arturio.dev/rockroman)  
