@@ -1,16 +1,9 @@
 # Hi there, I'm Roman Rakic - aka (ROCKROMAN79)👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
+## I'm a Husband, Father and Developer!!
 
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- Currently working in "FULL STACK WEB DEVELOPMENT PROGRAM" by [Code Institute](https://codeinstitute.net/ie/full-stack-software-development-diploma/?utm_term=code%20institute&utm_campaign=CI+-+IRL+-+Search+-+Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=14304747355&hsa_grp=128775288209&hsa_ad=578515182410&hsa_src=g&hsa_tgt=kwd-319867646331&hsa_kw=code%20institute&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMImJ7e07Sc-gIVSbTtCh2xLwqYEAAYASAAEgLA0fD_BwE)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
@@ -19,19 +12,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website]()]()
+[![website]()]()
+
 
 ### Languages and Tools:
