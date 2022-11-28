@@ -1,10 +1,10 @@
 <h1 align="center"> Hi there 👋, my name is Roman Rakic - aka (ROCKROMAN79)<h1>
 
-<h2> I'm a Full time Husband,Full time Father and Developer!!<h2>
+<h2> Junior Software Developer,Father an Husband!!<h2>
 
-![I'm a Full time Husband,Full time Father and Developer!!](https://media-exp1.licdn.com/dms/image/C4E16AQGmy7SdfLicfQ/profile-displaybackgroundimage-shrink_350_1400/0/1662132591680?e=1668643200&v=beta&t=0Lms5ADg3rDx1chluMmYrReK8uPRWHpUmpQbPrhtUss)
+![Junior Software Developer,Father an Husband!!](https://media-exp1.licdn.com/dms/image/C4E16AQGmy7SdfLicfQ/profile-displaybackgroundimage-shrink_350_1400/0/1662132591680?e=1668643200&v=beta&t=0Lms5ADg3rDx1chluMmYrReK8uPRWHpUmpQbPrhtUss)
 
--  I’m currently learning Agile principles 
+-  I’m currently learning Django 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about backend technologies
 - My hobbies are Reading, coding and ocassionaly gaming
