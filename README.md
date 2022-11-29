@@ -1,10 +1,9 @@
 <h1 align="center"> Hi there 👋, my name is Roman Rakic - aka (ROCKROMAN79)<h1>
 
-<h2> Junior Software Developer,Father an Husband!!<h2>
+<h2> Junior Software Developer,Father and a  Husband!!<h2>
 
-![Junior Software Developer,Father an Husband!!](https://media-exp1.licdn.com/dms/image/C4E16AQGmy7SdfLicfQ/profile-displaybackgroundimage-shrink_350_1400/0/1662132591680?e=1668643200&v=beta&t=0Lms5ADg3rDx1chluMmYrReK8uPRWHpUmpQbPrhtUss)
 
--  I’m currently learning Django 
+-  I’m currently learning 	![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about backend technologies
 - My hobbies are Reading, coding and ocassionaly gaming
