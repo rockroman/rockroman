@@ -18,7 +18,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
 <p> -->
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,github,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,github,django,aws)](https://skillicons.dev)
 
 
 
