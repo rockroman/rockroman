@@ -1,22 +1,28 @@
-<h1 align="center"> Hi there 👋, my name is Roman Rakic - aka (ROCKROMAN79)<h1>
+<h2 align="center"> Hi there 👋, I m Roman Rakic <h2>
 
-<h2> Junior Software Developer,Father and a  Husband!!<h2>
+  
+<h1 align="center"> Junior Software Developer,Father and a  Husband!!<h1>
+  
+  
 
 
--  I’m currently developing my first e-commerce ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) app
+<!-- -  I’m currently Learning React 
+   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="40" height="40" align="centre"/> -->
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React logo" width="40" height="40" />
+  <br />
+  I'm currently learning React
+</p> 
+<div align="center">
+<p>👯  looking to collaborate with other developers</p> 
+<p>🥅   2023 Goals: Learn React, Django REST </p> 
+<p> My hobbies: Reading, gaming, meditating</p> 
 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about backend technologies
-- My hobbies are Reading, coding and ocassionaly gaming
+</div>
 
 ## Languages and Tools:
-<!-- <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-<p> -->
+
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,github,django,aws)](https://skillicons.dev)
 
