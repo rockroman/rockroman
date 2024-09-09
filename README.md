@@ -1,30 +1,49 @@
-<h2 align="center"> Hi there 👋, I m Roman Rakic <h2>
+<h2 align="center"> Hi  👋, I m Roman Rakic <h2>
 
   
-<h1 align="center"> Junior Software Developer,Father and a  Husband!!<h1>
+<h1 align="center">Software Developer,Father and a  Husband!!<h1>
+<div id="badges" align="center">
+  <a href="[link to your LinkedIn profile]">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+</div>
   
   
+## 🙋‍♂️  About Me
+Software developer, remote tutor at Code Institute, and a student studying Science in
+Computing at the National College of Ireland. Specialize in helping junior software
+developers debug and problem solve. Have hands-on experience in front-end and
+back-end technologies. Skilled in Django, working with Django-Rest framework, React.js.
+Experience in Agile methodology and team collaboration. Bringing a diverse skill set and
+unique perspectives to software development, with eagerness to contribute the team and
+company
 
+<div id="stats">
+  <h2>Stats</h2>
 
-<!-- -  I’m currently Learning React 
-   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="40" height="40" align="centre"/> -->
-  
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React logo" width="40" height="40" />
-  <br />
-  I'm currently learning React
-</p> 
-<div align="center">
-<p>👯  looking to collaborate with other developers</p> 
-<p>🥅   2023 Goals: Learn React, Django REST </p> 
-<p> My hobbies: Reading, gaming, meditating</p> 
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockroman&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
 
-## Languages and Tools:
+
+## 🔧 Skills I have
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,github,django,aws,react,flask,mongo,java,tailwind,postgresql,git)](https://skillicons.dev)
+
+- **Languages & Frameworks:** Django, Django REST, React, Python, JavaScript, CSS, HTML, Bootstrap, React Native, Java, Tailwind,
+- **Databases:** PostgreSQL, NoSQL,MongoDB, MySQL,Chroma DB
+- **Tools & Platforms:** Git, AWS S3,OpenAI Models (GPT-4o-mini), Docker, Stripe Integration,Streamlit,
+- **Methodologies:** Agile, REST APIs,
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,github,django,aws)](https://skillicons.dev)
+
+### 👯  looking to collaborate with other developers
+### 🥅   2024/2025 Goals:
+  -  Spring Boot 
+  -  FastAPI
+  
+
+
+####  My hobbies: Reading, gaming, meditating</p> 
 
 
 
